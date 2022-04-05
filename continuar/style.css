@@ -46,7 +46,7 @@ body {
 	font-size: 30px;
 	background-color: #f7ce6a;
 	outline: none;
-	color: white;
+	color: black;
 	text-decoration: none;
 }
 
@@ -54,7 +54,7 @@ body {
 	color: yellow;
 }
 
-.black p {
+.white p {
 	font-size: 18px;
 	color: white;
 }
